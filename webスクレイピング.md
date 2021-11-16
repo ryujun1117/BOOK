@@ -1,3 +1,5 @@
+barchec
+
 Webスクレイピング（参考：O’REILLY　退屈なことはPythonにやらせよう　より）
 
 Pythonで簡単にwebスクレイピングをするのに役立つモジュール達
