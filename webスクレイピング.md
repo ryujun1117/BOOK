@@ -1,4 +1,4 @@
-barchec
+barchec→branchedだっちゅうの
 
 Webスクレイピング（参考：O’REILLY　退屈なことはPythonにやらせよう　より）
 
